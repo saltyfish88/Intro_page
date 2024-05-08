@@ -1,3 +1,4 @@
+<img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
 <div id="title" align=center>
 
 ![Modern C++ template][github-sub-title:img]
@@ -14,8 +15,11 @@
 
 </div>
 
-![头像](image/樱花.jpg)
+![背景](image/樱花.jpg)
 
 ![Visitor Count](https://profile-counter.glitch.me/saltyfish88/count.svg)
+## 欢迎参观！
+![摸鱼](gif/touchfish.gif)
+![摇头](gif/head.gif)
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=saltyfish88.
